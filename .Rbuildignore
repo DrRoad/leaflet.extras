@@ -3,6 +3,7 @@
 ^inst/htmlwidgets/lib/.*/node_modules.*$
 ^inst/examples/.*\.Rmd
 ^inst/examples/.*\.html
+^inst/examples/.*\.Rds
 ^inst/examples/rsconnect
 ^cran-comments\.md$
 ^NEWS\.md$
